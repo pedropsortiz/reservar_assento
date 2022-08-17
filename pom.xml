@@ -34,8 +34,11 @@
   </dependencies>
 
   <build>
-    <finalName>SOBus</finalName>
+    
+    <finalName>app_bic</finalName>
+    
     <plugins>
+      
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-assembly-plugin</artifactId>
@@ -62,7 +65,10 @@
             </goals>
           </execution>
         </executions>
+        
       </plugin>
+      
     </plugins>
+    
   </build>
 </project>
