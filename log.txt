@@ -1,26 +1,18 @@
 
-#Nova reserva
-Ip: /0:0:0:0:0:0:0:1
-Nome: Feirante
-Assento: 3
-Data: 2022-07-27 18:13
-#Nova reserva
-Ip: /0:0:0:0:0:0:0:1
-Nome: Feirante
-Assento: 7
-Data: 2022-07-14 18:18
-#Nova reserva
-Ip: /0:0:0:0:0:0:0:1
-Nome: Rafael Midbrat
-Assento: 4
-Data: 2022-07-13 19:00
-#Nova reserva
-Ip: /0:0:0:0:0:0:0:1
-Nome: Huanan viado
-Assento: 4
-Data: 2022-09-15 15:00
-#Nova reserva
-Ip: /0:0:0:0:0:0:0:1
-Nome: Rafael Milbradt
-Assento: 4
-Data: 2022-07-13 20:20
+Ip:/0:0:0:0:0:0:0:1 Endereco: GET /finalizar?nome=mkmkm&num=16 HTTP/1.1
+ Data e hora: 17/07/2022 16:45:23 
+
+Ip:/0:0:0:0:0:0:0:1 Endereco: GET /finalizar?nome=criss&num=08 HTTP/1.1
+ Data e hora: 17/07/2022 20:58:59 
+
+Ip:/0:0:0:0:0:0:0:1 Endereco: GET /finalizar?nome=criss&num=18 HTTP/1.1
+ Data e hora: 17/07/2022 20:59:15 
+
+Ip:/0:0:0:0:0:0:0:1 Endereco: GET /finalizar?nome=aasdasdsda&num=08 HTTP/1.1
+ Data e hora: 22/07/2022 14:25:30 
+
+Ip:/0:0:0:0:0:0:0:1 Endereco: GET /finalizar?nome=arquimedes&num=15 HTTP/1.1
+ Data e hora: 05/08/2022 19:17:44 
+
+Ip:/0:0:0:0:0:0:0:1 Endereco: GET /finalizar?nome=matias&num=17 HTTP/1.1
+ Data e hora: 05/08/2022 19:17:50 
